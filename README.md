@@ -52,5 +52,5 @@ pandas
 numpy
 scikit-learn
 imbalanced-learn (for SMOTE)
-
+## Check the dataset here: https://www.kaggle.com/mlg-ulb/creditcardfraud
 This summary captures the end-to-end process you followed in your Credit Card Fraud Detection Project.
